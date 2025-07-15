@@ -13,13 +13,13 @@ Haofei's primary research objective is to enable robots/computers to better unde
 
 Education
 ======
-* **2013~2019** PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
-* **2009~2013** Bachelor in Automation with Chu Kochen Honors, Zhejiang University
+* **2013~2019**, PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+* **2009~2013**, Bachelor in Automation with Chu Kochen Honors, Zhejiang University
 
 Work Experience
 ======
-* **2024 ~ Present** Associate Researcher/PhD Advisor, Pengcheng Laboratory
-* **2022-2024** Assistant Researcher/PhD Advisor, Pengcheng Laboratory
-* **2020-2022** Postdoc Fellow, Pengcheng Laboratory
-* **2019-2020** Research Associate, The Hong Kong University of Science and Technology
-* **2013-2019** Teaching Assistant/Research Assistant, The Hong Kong University of Science and Technology
+* **2024 ~ Present**, Associate Researcher/PhD Advisor, Pengcheng Laboratory
+* **2022-2024**, Assistant Researcher/PhD Advisor, Pengcheng Laboratory
+* **2020-2022**, Postdoc Fellow, Pengcheng Laboratory
+* **2019-2020**, Research Associate, The Hong Kong University of Science and Technology
+* **2013-2019**, Teaching Assistant/Research Assistant, The Hong Kong University of Science and Technology
