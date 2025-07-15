@@ -13,8 +13,8 @@ Haofei's primary research objective is to enable robots/computers to better unde
 
 Education
 ======
-* **2013~2019**, PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
-* **2009~2013**, Bachelor in Automation with Chu Kochen Honors, Zhejiang University
+* **2013~2019**, PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Full Postgraduate Scholarship
+* **2009~2013**, Bachelor in Automation, Zhejiang University, Chu Kochen Honor Excellent Graduates
 
 Work Experience
 ======
