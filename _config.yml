@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Haofei Wang"
-  pronouns         : # example: "she/her"  
+  name             : "Haofei Wang 王昊飞"
+  pronouns         : "Dr."  
   bio              : "副研究员、博士生导师"
   location         : "Shenzhen"
   employer         : "Pengcheng Laboratory"
