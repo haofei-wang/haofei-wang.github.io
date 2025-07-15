@@ -13,13 +13,13 @@ Haofei’s research interests include human-robot interaction, VR/AR, deep learn
 
 Education
 ======
-* PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
-* Bachelor in Automation with Chu Kochen Honors, Zhejiang University
+**2013~2019** PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+**2009~2013** Bachelor in Automation with Chu Kochen Honors, Zhejiang University
 
 Work Experience
 ======
-* Associate Researcher, Pengcheng Laboratory, 2024 ~ Present
-* Assistant Researcher, Pengcheng Laboratory
-* Postdoc Fellow, Pengcheng Laboratory
-* Research Associate, The Hong Kong University of Science and Technology
-* Teaching Assistant/Research Assistant, The Hong Kong University of Science and Technology
+**2024 ~ Present** Associate Researcher/PhD Advisor, Pengcheng Laboratory
+**2022-2024** Assistant Researcher/PhD Advisor, Pengcheng Laboratory
+**2020-2022** Postdoc Fellow, Pengcheng Laboratory
+**2019-2020** Research Associate, The Hong Kong University of Science and Technology
+**2013-2019** Teaching Assistant/Research Assistant, The Hong Kong University of Science and Technology
